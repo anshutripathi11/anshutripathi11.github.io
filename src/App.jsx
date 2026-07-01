@@ -9,7 +9,7 @@ import {
 // ─── DATA ────────────────────────────────────────────────────────────────────
 const DATA = {
   name: "Anshu Tripathi",
-  tagline: "MS CS (Data Science) · UTSA",
+  tagline: "MS CS (Data Science) · UT San Antonio",
   headline: "Building reliable systems at the intersection of DevOps, ML, and the Cloud.",
   location: "San Antonio, TX",
   email: "anshu.tripathi@my.utsa.edu", 
@@ -19,7 +19,7 @@ const DATA = {
     resume: "/Anshu_Tripathi_Resume.pdf", 
   },
   about:
-    "I'm a graduate student at UTSA (4.0 GPA) with nearly five years of industry experience as a Software Engineer at Accenture, and currently a DevOps Engineer Co-op at SWBC (Swivel). My work sits at the crossroads of cloud infrastructure, ML pipelines, and full-stack development. I'm driven by the idea that robust engineering and interpretable AI can solve real-world problems — from fintech automation to public health analytics.",
+    "I'm a graduate student at UT San Antonio (4.0 GPA) with nearly five years of industry experience as a Software Engineer at Accenture, and currently a DevOps Engineer Intern at SWBC (Swivel). My work sits at the crossroads of cloud infrastructure, ML pipelines, and full-stack development. I'm driven by the idea that robust engineering and interpretable AI can solve real-world problems — from fintech automation to public health analytics.",
 
   // Skill categories for grouped display
   skillGroups: [
@@ -52,9 +52,9 @@ const DATA = {
 
   experiences: [
     {
-      role: "DevOps Engineer Co-op",
+      role: "DevOps Engineer Intern",
       org: "SWBC · Swivel",
-      period: "May 2025 – Present",
+      period: "June 2025 – May 2026",
       type: "Internship",
       bullets: [
         "Developed Atlassian Forge apps to automate Jira issue creation, approval flows, and secure file workflows — reducing manual ticket overhead by streamlining cross-team handoffs.",
@@ -78,9 +78,9 @@ const DATA = {
 
   education: [
     {
-      program: "M.S., Computer & Information Science — Data Science Track",
-      school: "The University of Texas at San Antonio (UTSA)",
-      period: "Fall 2024 – Present",
+      program: "M.S., Computer Science — Data Science Track",
+      school: "The University of Texas at San Antonio, TX, USA",
+      period: "Fall 2024 – May 2026",
       gpa: "4.0 / 4.0",
       notes: "Relevant coursework: Operating Systems, Algorithm Design, Machine Learning, Cloud Computing, Computer Architecture.",
     },
@@ -88,7 +88,7 @@ const DATA = {
       program: "B.Tech., Computer Science & Engineering",
       school: "Banasthali Vidyapith, Rajasthan, India",
       period: "2015 – 2019",
-      gpa: null,
+      gpa: "3.4 / 4.0",
       notes: "Represented university and state at All India West Zone Badminton Championship.",
     },
   ],
