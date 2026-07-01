@@ -443,7 +443,7 @@ export default function Portfolio() {
             <div className="w-64 md:w-full max-w-xs aspect-square rounded-2xl overflow-hidden border-2 border-indigo-200 dark:border-indigo-800 shadow-xl">
               <img
                 {/* src="/Anshu Tripathi.jpg" */}
-                src="/anshu.jpeg"
+                src="/anshu.JPEG"
                 alt="Anshu Tripathi"
                 className="w-full h-full object-cover"
                 loading="eager"
