@@ -79,7 +79,7 @@ const DATA = {
   education: [
     {
       program: "M.S., Computer Science — Data Science Track",
-      school: "The University of Texas at San Antonio, TX, USA",
+      school: "The University of Texas at San Antonio, Texas, USA",
       period: "Fall 2024 – May 2026",
       gpa: "4.0 / 4.0",
       notes: "Relevant coursework: Operating Systems, Algorithm Design, Machine Learning, Cloud Computing, Computer Architecture.",
