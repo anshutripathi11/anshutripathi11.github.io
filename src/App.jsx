@@ -19,7 +19,7 @@ const DATA = {
     resume: "/Anshu_Tripathi_Resume.pdf", 
   },
   about:
-    "I'm a graduate student at UT San Antonio (4.0 GPA) with nearly five years of industry experience as a Software Engineer at Accenture, and currently a DevOps Engineer Intern at SWBC (Swivel). My work sits at the crossroads of cloud infrastructure, ML pipelines, and full-stack development. I'm driven by the idea that robust engineering and interpretable AI can solve real-world problems — from fintech automation to public health analytics.",
+    "I'm a graduate student at UT San Antonio (4.0 GPA) with nearly five years of industry experience as a Software Engineer at Accenture, and currently a DevOps Engineer Intern at Southwest Business Corporation (Swivel). My work sits at the crossroads of cloud infrastructure, ML pipelines, and full-stack development. I'm driven by the idea that robust engineering and interpretable AI can solve real-world problems — from fintech automation to public health analytics.",
 
   // Skill categories for grouped display
   skillGroups: [
